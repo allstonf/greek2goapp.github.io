@@ -1,5 +1,5 @@
 # greek2goapp.github.io
-## https://greek2goa8.github.io/home.html
+## https://greek2goapp.github.io/home.html
 
 Greek 2 Go is our web app that we built using HTML, CSS, and JavaScript.
 
